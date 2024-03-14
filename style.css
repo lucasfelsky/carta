@@ -2,12 +2,3 @@ html {
   height: 100%;
   width: 100%;
 }
-
-.wrinkled-paper {
-  /* Base color and subtle texture */
-  background-color: #c7af8a;
-  background-image: url('paper-texture.jpg');
-  /* Replace with your texture image path */
-  opacity: 0.9;
-
-}
