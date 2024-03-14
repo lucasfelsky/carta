@@ -10,18 +10,4 @@ html {
   /* Replace with your texture image path */
   opacity: 0.9;
 
-  /* Simulate folds and shadows with a gradient */
-  background-gradient: linear-gradient(to bottom, #f5f0e8, #e0c9b3 30%, #f5f0e8);
-
-  /* Add some padding and a slight border radius for a finished look */
-  padding: 20px;
-  margin: 30px;
-  border-radius: 5px;
-
-  /* Subtle box-shadow for depth */
-  box-shadow: 2px 3px 5px rgba(0, 0, 0, 0.1);
-}
-
-.wrinkled-paper span{
-  opacity: 1;
 }
